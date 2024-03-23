@@ -1,3 +1,7 @@
+![image](https://github.com/ap0calypse8/Game-of-life/assets/48056316/650f4aff-9ae8-466e-808d-136daed85a8a)
+
+
+
 \# Conway\'s Game of Life
 
 This is a C++ implementation of Conway\'s Game of Life, a cellular
